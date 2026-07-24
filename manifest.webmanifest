@@ -1,0 +1,26 @@
+{
+  "name": "Brooklyn Cay",
+  "short_name": "Brooklyn",
+  "description": "Brooklyn Cay: The kind of place you cancel other plans for",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f2f2f0",
+  "theme_color": "#c9a227",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
